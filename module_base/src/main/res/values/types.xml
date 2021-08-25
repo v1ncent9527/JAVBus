@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.TEDC.XXXL" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textSize">@dimen/font_size_xxxl</item>
+<!--        <item name="fontFamily">@font/avenirnext_demibold</item>-->
+        <item name="fontWeight">100</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.XXL" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textSize">@dimen/font_size_xxl</item>
+<!--        <item name="fontFamily">@font/avenirnext_demibold</item>-->
+    </style>
+
+    <style name="TextAppearance.TEDC.XL" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textSize">@dimen/font_size_xl</item>
+<!--        <item name="fontFamily">@font/avenirnext_demibold</item>-->
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.LARGE" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textSize">@dimen/font_size_large</item>
+<!--        <item name="fontFamily">@font/avenirnext_medium</item>-->
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.MEDIUM" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">@dimen/font_size_medium</item>
+<!--        <item name="fontFamily">@font/avenirnext_medium</item>-->
+    </style>
+
+    <style name="TextAppearance.TEDC.NORMAL" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textSize">@dimen/font_size_normal</item>
+<!--        <item name="fontFamily">@font/avenirnext_medium</item>-->
+    </style>
+
+    <style name="TextAppearance.TEDC.SMALL" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">@dimen/font_size_small</item>
+        <item name="android:letterSpacing">-0.02</item>
+<!--        <item name="fontFamily">@font/avenirnext_medium</item>-->
+    </style>
+
+    <style name="TextAppearance.TEDC.XS" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">@dimen/font_size_xs</item>
+        <item name="android:letterSpacing">-0.03</item>
+<!--        <item name="fontFamily">@font/avenirnext_medium</item>-->
+    </style>
+
+    <style name="TextAppearance.TEDC.XXS" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textSize">@dimen/font_size_xxs</item>
+        <item name="android:letterSpacing">-0.04</item>
+<!--        <item name="fontFamily">@font/avenirnext_medium</item>-->
+    </style>
+
+    <!--NUMERIC-->
+    <style name="TextAppearance.TEDC.XXXL.NUMERIC" parent="TextAppearance.TEDC.XXXL">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_bold</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.XXL.NUMERIC" parent="TextAppearance.TEDC.XXL">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_bold</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.XL.NUMERIC" parent="TextAppearance.TEDC.XL">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_bold</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.LARGE.NUMERIC" parent="TextAppearance.TEDC.LARGE">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_medium</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.MEDIUM.NUMERIC" parent="TextAppearance.TEDC.MEDIUM">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_medium</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.NORMAL.NUMERIC" parent="TextAppearance.TEDC.NORMAL">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_medium</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.SMALL.NUMERIC" parent="TextAppearance.TEDC.SMALL">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_medium</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.XS.NUMERIC" parent="TextAppearance.TEDC.XS">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_medium</item>
+    </style>
+
+    <style name="TextAppearance.TEDC.XXS.NUMERIC" parent="TextAppearance.TEDC.XXS">
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="fontFamily">@font/dinpro_medium</item>
+    </style>
+</resources>

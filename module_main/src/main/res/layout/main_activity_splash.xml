@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="splashVM"
+            type="com.v1ncent.javbus.main.ui.splash.SplashViewModel" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/layout_toolbar"
+            toolbarVM="@{splashVM}" />
+
+        <Button
+            android:id="@+id/wx_login"
+            style="@style/text_font32_numeric"
+            android:layout_gravity="center"
+            android:text="微信登录" />
+
+        <Button
+            android:id="@+id/test"
+            style="@style/text_font32_numeric"
+            android:layout_marginTop="@dimen/dp_32"
+            android:layout_gravity="center"
+            android:text="Test" />
+
+
+        <TextView
+            android:id="@+id/info"
+            style="@style/text_font17"
+            android:layout_marginTop="@dimen/dp_24" />
+
+    </LinearLayout>
+</layout>

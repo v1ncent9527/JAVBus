@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base">#05AA69</color>
+    <color name="base_alpha_10">#1A05AA69</color>
+    <color name="base_alpha_20">#6605AA69</color>
+    <color name="base_alpha_30">#4D05AA69</color>
+    <color name="base_alpha_40">#6605AA69</color>
+    <color name="base_alpha_50">#8005AA69</color>
+    <color name="base_alpha_60">#9905AA69</color>
+    <color name="base_alpha_70">#B305AA69</color>
+    <color name="base_alpha_80">#CC05AA69</color>
+    <color name="base_alpha_90">#E605AA69</color>
+    <color name="base_dark">#048b56</color>
+    <color name="base_light">#32B984</color>
+    <color name="transparent">#00000000</color>
+    <color name="navigation">#FFFFFF</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="refresh_header_text">#707070</color>
+
+    <!--white-->
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha_5">#05FFFFFF</color>
+    <color name="white_alpha_10">#1AFFFFFF</color>
+    <color name="white_alpha_20">#66FFFFFF</color>
+    <color name="white_alpha_30">#4DFFFFFF</color>
+    <color name="white_alpha_40">#66FFFFFF</color>
+    <color name="white_alpha_50">#80FFFFFF</color>
+    <color name="white_alpha_60">#99FFFFFF</color>
+    <color name="white_alpha_70">#B3FFFFFF</color>
+    <color name="white_alpha_80">#CCFFFFFF</color>
+    <color name="white_alpha_90">#E6FFFFFF</color>
+
+    <!--black-->
+    <color name="black">#000000</color>
+    <color name="black_alpha_5">#05000000</color>
+    <color name="black_alpha_10">#1A000000</color>
+    <color name="black_alpha_20">#66000000</color>
+    <color name="black_alpha_30">#4D000000</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="black_alpha_50">#80000000</color>
+    <color name="black_alpha_60">#99000000</color>
+    <color name="black_alpha_70">#B3000000</color>
+    <color name="black_alpha_80">#CC000000</color>
+    <color name="black_alpha_90">#E6000000</color>
+
+    <!--divider-->
+    <color name="divider_light">#1A000000</color>
+    <color name="divider_dark">#66000000</color>
+
+</resources>
